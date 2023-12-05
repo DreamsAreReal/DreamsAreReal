@@ -23,9 +23,8 @@ Welcome to the realm of my code! 🚀 I'm an experienced Backend .NET developer,
 ## 🌐 Projects
 
 1.  **[Reminder](https://github.com/DreamsAreReal/Reminder)** - An application designed to send Telegram messages via cron, leveraging GitHub Actions for scheduled execution.
-2.  **[SpotifyCheck](https://github.com/DreamsAreReal/SpotifyCheck)** [![Archived](https://img.shields.io/badge/Status-Archived-inactive?style=flat-square)](link-to-archived-projects)
-3. **[WebPageAnalyzer](https://github.com/DreamsAreReal/WebPageAnalyzer)** [![Archived](https://img.shields.io/badge/Status-Archived-inactive?style=flat-square)](link-to-archived-projects)
-
+2.  **[SpotifyCheck](https://github.com/DreamsAreReal/SpotifyCheck)** [![Archived](https://img.shields.io/badge/Status-Archived-inactive?style=flat-square)](link-to-archived-projects) [![Documentation](https://img.shields.io/badge/Documentation-None-red?style=flat-square)]
+3. **[WebPageAnalyzer](https://github.com/DreamsAreReal/WebPageAnalyzer)** [![Archived](https://img.shields.io/badge/Status-Archived-inactive?style=flat-square)](link-to-archived-projects) [![Documentation](https://img.shields.io/badge/Documentation-None-red?style=flat-square)](link-to-documentation)
 4. **[RouletteParser](https://github.com/DreamsAreReal/RouletteParser)** [![Archived](https://img.shields.io/badge/Status-Archived-inactive?style=flat-square)](link-to-archived-projects)
 
 5. **[GetContactVKBot](https://github.com/DreamsAreReal/GetContactVKBot)** [![Archived](https://img.shields.io/badge/Status-Archived-inactive?style=flat-square)](link-to-archived-projects)
