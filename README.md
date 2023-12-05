@@ -8,6 +8,7 @@ Welcome to the realm of my code! 🚀 I'm an experienced Backend .NET developer,
 -   👩‍💻 Passionate about programming and Backend development
 -   🚀 Specializing in .NET technologies and performance optimization
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamsAreReal&layout=compact&theme=vision-friendly-dark)](https://github.com/DreamsAreReal/github-readme-stats)
 ## 📚 Books I've Read
 
 1.  **"# CLR via C#" by Jeffrey Richter** - Brief description and impressions. 📖✅ (Read)
@@ -52,4 +53,4 @@ Thanks for stopping by! 🙌 I hope you find my projects and read books interest
 
 **Happy coding!** 💻✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamsAreReal&layout=compact&theme=vision-friendly-dark)](https://github.com/DreamsAreReal/github-readme-stats)
+
