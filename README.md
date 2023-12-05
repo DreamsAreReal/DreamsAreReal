@@ -52,5 +52,5 @@ Thanks for stopping by! 🙌 I hope you find my projects and read books interest
 
 **Happy coding!** 💻✨
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamsAreReal&layout=compact&theme=vision-friendly-dark)](https://github.com/DreamsAreReal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamsAreReal&layout=compact&theme=vision-friendly-dark)](https://github.com/DreamsAreReal/github-readme-stats)]
 </div>
