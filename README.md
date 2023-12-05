@@ -51,6 +51,5 @@ Welcome to the realm of my code! 🚀 I'm an experienced Backend .NET developer,
 Thanks for stopping by! 🙌 I hope you find my projects and read books interesting. If you have any questions or suggestions, feel free to let me know.
 
 **Happy coding!** 💻✨
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamsAreReal&layout=compact&theme=vision-friendly-dark)](https://github.com/DreamsAreReal/github-readme-stats)]
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamsAreReal&layout=compact&theme=vision-friendly-dark)](https://github.com/DreamsAreReal/github-readme-stats)
