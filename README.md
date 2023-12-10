@@ -1,7 +1,8 @@
 
 # Hi there, 🌟 I'm Alexander
 
-Welcome to the realm of my code! 🚀 I'm an experienced Backend .NET developer, transforming ideas into efficient solutions.
+Welcome to the realm of my code! 
+🚀 I'm an experienced Backend .NET developer, transforming ideas into efficient solutions.
 
 ## 🔧 A bit about me
 
