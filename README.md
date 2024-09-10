@@ -10,16 +10,6 @@ Welcome to the realm of my code!
 -   🚀 Specializing in .NET technologies and performance optimization
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamsAreReal&layout=compact&theme=vision-friendly-dark)](https://github.com/DreamsAreReal/github-readme-stats)
-## 📚 Books I've Read
-
-1.  **"# CLR via C#" by Jeffrey Richter** - Brief description and impressions. 📖✅ (Read)
-2.  **"Concurrency in C#: Asynchronous, Parallel, and Multithreaded Programming" by Stephen Cleary** 📖🚫 (Not Read)
-3.  **"Code Complete" by Steve McConnell**📖🚫 (Not Read)
-4.  **"Clean Code" by Robert C. Martin**📖🚫 (Not Read)
-5.  **"Clean Architecture: A Craftsman's Guide to Software Structure and Design" by Robert C. Martin** 📖🚫 (Not Read)
-6.  **"Microservices Patterns: Designing Fine-Grained Systems" by Chris Richardson**📖🚫 (Not Read)
-7.  **"Algorithms: Design and Analysis" by Clifford Stein, Thomas H. Cormen"** 📖🚫 (Not Read)
-8.  **"The Clean Coder: A Code of Conduct for Professional Programmers" by Robert C. Martin** 📖🚫 (Not Read)
 
 ## 🌐 Projects
 
