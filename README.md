@@ -30,7 +30,7 @@ Welcome to the realm of my code!
 
 ## 📫 Contact
 
--   Feel free to reach out via email: [waxloce+githubabout@proton.me](mailto:waxloce+githubabout@proton.me)
+-   Feel free to reach out via email: [notes.grunts4c@icloud.com](mailto:notes.grunts4c@icloud.com)
 -   Find me on social media: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/roadtodream/)
 
 
